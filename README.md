@@ -4,6 +4,6 @@ Welcome to the ✨ special ✨ repository of anishamsri
 - 🌱 I’m currently learning CSS, C++ and Algorithms based on JAVA
 - 💞️ I’m looking to contribute to The Digital Era.
 - 📫 Reach me:
-- - instagram.com/anishamsri,
-- - twitter.com/anishamsri,
-- - anishamsri@gmail.com
+     - www.instagram.com/anishamsri,
+     - www.twitter.com/anishamsri,
+     - anishamsri@gmail.com
