@@ -4,6 +4,6 @@ Welcome to the ✨ special ✨ repository of anishamsri
 - 🌱 I’m currently learning HTML, Python, CSS, C and Algorithms based on JAVA
 - 💞️ I’m looking to contribute to The Digital Era.
 - 📫 Reach me:
-     - www.instagram.com/anishamsri,
-     - www.twitter.com/anishamsri,
+     - www.instagram.com/iamanishsrivastava,
+     - www.twitter.com/iamanishsrivastava,
      - anishamsri@gmail.com
