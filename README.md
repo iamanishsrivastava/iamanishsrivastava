@@ -5,5 +5,5 @@ Welcome to the ✨ special ✨ repository of anishamsri
 - 💞️ I’m looking to contribute to The Digital Era.
 - 📫 Reach me:
      - www.instagram.com/iamanishsrivastava,
-     - www.twitter.com/iamanishsrivastava,
+     - www.twitter.com/anishamsri,
      - anishamsri@gmail.com
