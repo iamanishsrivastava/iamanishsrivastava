@@ -22,16 +22,21 @@ I write stuff I wish I had read earlier at [hashnode](https://hashnode.com/@anis
 ### 📈 GitHub Stats
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iamanishsrivastava&no-frame=true" />
+</div>
+</br>
+<div align="center">
+
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true&username=iamanishsrivastava" height="150" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=true&username=iamanishsrivastava" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&langs_count=5&theme=merko&hide_border=true&username=iamanishsrivastava" height="150" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamanishsrivastava&&theme=merko&hide_border=true&username=iamanishsrivastava&card_width=320" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamanishsrivastava&&theme=merko&hide_border=true&username=iamanishsrivastava&card_width=320&hide_title=true" height="150" />
 </div>
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=iamanishsrivastava&theme=merko&hide_border=true&height=300)](https://github.com/iamanishsrivastava/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamanishsrivastava&theme=merko&hide_border=true&height=300"/>
 
 ---
 
