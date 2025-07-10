@@ -1,10 +1,29 @@
-<h2 align="center">Namaste, I'm Anish Srivastava</h2>
-
+<!-- Hero Section -->
 <p align="center">
-  Builder at heart. Systems thinker by choice. I build scalable systems with simple engineering  — always with a product mindset.
+  <img src="https://i.redd.it/bpxxqqvps4h91.gif" />
 </p>
 
----
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Namaste, I'm Anish Srivastava</h1>
+<h3 align="center">Builder at heart. Systems thinker by choice.<br/> I build scalable systems with simple engineering — always with a product mindset.</h3>
+
+<!-- Two-column layout without visible borders -->
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+  <tr>
+    <td valign="center" width="60%">
+      <div align="left">
+
+- Currently refining my understanding of systems design, serverless infra, and AI-assisted tooling  
+- Project walkthroughs & dev logs on YouTube: [Watch here](https://youtube.com/@anishamsri)  
+- Latest mess I shipped: [taskparcer.vercel.app](https://taskparcer.vercel.app)  
+- Write articles and share learnings on: [TezBytes.dev](https://tezbytes.hashnode.dev)  
+- Ping me at: **[LinkedIn](https://linkedin.com/in/iamanishsrivastava)**
+      </div>
+    </td>
+    <td valign="center" width="40%">
+      <img src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ### 🛠 About Me
 
