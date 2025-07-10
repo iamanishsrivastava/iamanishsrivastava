@@ -14,7 +14,7 @@
 
 - Currently refining my understanding of systems design, serverless infra, and AI-assisted tooling  
 - Project walkthroughs & dev logs on YouTube: [Watch here](https://youtube.com/@anishamsri)  
-- Latest mess I shipped: [taskparcer.vercel.app](https://taskparcer.vercel.app)  
+- Latest mess I shipped: [TaskParser](https://taskparser.vercel.app)  
 - Write articles and share learnings on: [TezBytes.dev](https://tezbytes.hashnode.dev)  
 - Ping me at: **[LinkedIn](https://linkedin.com/in/iamanishsrivastava)**
       </div>
